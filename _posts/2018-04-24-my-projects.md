@@ -1,7 +1,0 @@
----
-　　layout: default
-　　title: 我的项目
----
-#我的项目
-##1. PPPOE4ANDROID
-##2. PPPOE4IOS
